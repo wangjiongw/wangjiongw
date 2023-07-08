@@ -3,7 +3,8 @@
 - 🌱 I’m currently an research intern at Shanghai AI Lab and incoming Ph.D. student at Fudan University.
 - 🔭 I’m currently working on multimodal learning and extending large language models to vision domains.
 
-![WANG Jiong's Github Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjiongw&show_icons=true&count_private=true&theme=cobalt))
+![](https://github-readme-stats.vercel.app/api?username=wangjiongw&show_icons=true&count_private=true&theme=cobalt))
+
 <!--
 **wangjiongw/wangjiongw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
