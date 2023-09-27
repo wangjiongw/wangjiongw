@@ -1,7 +1,8 @@
 ### Hi there 👋 This is WANG Jiong.
 
-- 🌱 I’m currently an research intern at Shanghai AI Lab and incoming Ph.D. student at Fudan University.
+- 🌱 I’m currently an research intern at Shanghai AI Lab and Ph.D. student at Fudan University.
 - 🔭 I’m currently working on multimodal learning and extending large language models to vision domains.
+- ⚡ Also, I'm exploring research on AI for earth science.
 
 ![](https://github-readme-stats.vercel.app/api?username=wangjiongw&show_icons=true&count_private=true&theme=cobalt)
 
